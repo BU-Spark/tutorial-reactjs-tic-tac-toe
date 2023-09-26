@@ -1,3 +1,24 @@
+# Tic-Tac-Toe
+
+We will be following this tutorial: https://react.dev/learn/tutorial-tic-tac-toe
+
+## Setup
+
+0. Clone this repository
+1. Navigate into `p0` and run `npm install`
+2. Run `npm run dev` to start the development server
+3. Navigate to `localhost:3000` in your browser to make sure the site works
+
+## Getting future steps
+
+As we work, we will push the current "state" of the application into new branch. To get those latest changes run:
+```bash
+git fetch --all
+git stash
+git checkout <branch-name>
+```
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
